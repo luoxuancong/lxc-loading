@@ -1,5 +1,5 @@
 # lxc-loading
-## 纯css实现的一款简单方便的vue加载动画插件,效果如下
+## 纯css实现的一款简单实用的vue加载动画插件,效果如下
 ![Image text](https://raw.githubusercontent.com/luoxuancong/img/master/imgs/loading.gif)
 
 ## 1. npm安装
