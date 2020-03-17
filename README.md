@@ -23,7 +23,7 @@
 
 属性 | 说明  | 类型 | 默认值 | 参数
 ---- | ----  | ----| --- |---
-loading| 是否显示加载插件 | Boolean | true| true/false
+loading| 是否显示加载插件 | Boolean | false| true/false
 offsetTop| 浏览器顶部偏移距离 | String | 0px | px、rem、% 常用的单位属性
 showBg| 是否显示加载插件背景色 | Boolean | true | true/false
 bgColor| 插件背景色设置 | String | rgba(0,0,0,.9) | rgb()、rgba()、#333 等常用css颜色属性
