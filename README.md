@@ -11,7 +11,15 @@
   import lxcLoading from 'lxc-loading'  
   Vue.use(lxcLoading)
 ```
-## 3. api  
+## 3. 在页面中使用
+```
+ <template>
+  <div>
+    <lxc-loading/>
+  </div>
+ </template>
+```
+## 4. api  
 
 属性 | 说明  | 类型 | 默认值 | 参数
 ---- | ----  | ----| --- |---
