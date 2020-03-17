@@ -41,7 +41,7 @@ export default {
       default: 'rgba(0,0,0,.9)'
     },
     zIndex: {
-      type: String,
+      type: [String, Number],
       default: '9999'
     }
   }
