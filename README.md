@@ -11,7 +11,15 @@
   import lxcLoading from 'lxc-loading'  
   Vue.use(lxcLoading)
 ```
-## 3. api  
+## 3. 在页面中使用
+```
+ <template>
+  <div>
+    <lxc-loading/>
+  </div>
+ </template>
+```
+## 4. api  
 
 属性 | 说明  | 类型 | 默认值 | 参数
 ---- | ----  | ----| --- |---
@@ -19,7 +27,7 @@ loading| 是否显示加载插件 | Boolean | true| true/false
 offsetTop| 浏览器顶部偏移距离 | String | 0px | px、rem、% 常用的单位属性
 showBg| 是否显示加载插件背景色 | Boolean | true | true/false
 bgColor| 插件背景色设置 | String | rgba(0,0,0,.9) | rgb()、rgba()、#333 等常用css颜色属性
-zIndex | 背景色层级 | String/Number | 999 |
+zIndex | 插件层级，当插件层级不够时调节 | String/Number | 999 |
 
 ____
 

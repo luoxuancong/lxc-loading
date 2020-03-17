@@ -1,7 +1,7 @@
 {
   "name": "lxc-loading",
-  "description": "A Vue.js project",
-  "version": "1.0.5",
+  "description": "纯css实现的一款简单方便的vue加载动画插件",
+  "version": "1.0.6",
   "author": "luoxuancong <742340151@qq.com>",
   "license": "MIT",
   "private": false,
