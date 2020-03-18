@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <lxc-loading :loading="true" />
+    <lxc-loading :loading="true" type="semicircle"/>
   </div>
 </template>
 
