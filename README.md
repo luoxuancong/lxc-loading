@@ -34,4 +34,4 @@ ____
 
 > 后续会新增其他各种漂亮的css  loaing
 
-
+## 欢迎issues  https://github.com/luoxuancong/lxc-loading/issues

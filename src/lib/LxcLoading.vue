@@ -177,13 +177,7 @@ $bg-color-end: #e94960;
 /**loader-semicircle start**/
 .loader-semicircle {
   .loader-inner {
-    bottom: 0;
     height: 60px;
-    left: 0;
-    margin: auto;
-    position: absolute;
-    right: 0;
-    top: 0;
     width: 100px;
   }
 
